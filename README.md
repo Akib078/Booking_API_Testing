@@ -6,4 +6,4 @@
 
 Base URL: https://restful-booker.herokuapp.com
 
-Tools Used: Postman, JavaScript. 
+Tools Used: Postman, JavaScript, Newman. 
