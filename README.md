@@ -10,4 +10,8 @@ Tools Used: Postman, JavaScript, Newman.
 
 •	Wrote automation scripts and cases using JS to reduce testing time and generated report using Newman. 
 
+Newman report: 
+
+![Report Screenshot](https://github.com/user-attachments/assets/499fe384-af09-487c-af62-8426e1235c6c)
+
 
